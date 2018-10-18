@@ -8,7 +8,7 @@ This code crawls patent documents of interest from [https://patents.google.com](
 
 
 
-![image](./google_patent_crawl.png)
+![image](./google_patent.png)
 
 
 
