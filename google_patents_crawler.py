@@ -9,8 +9,8 @@ import requests, csv, time
 #import progressbar
 from bs4 import BeautifulSoup
 
-OUTPUT_FILENAME = 'patent_output.csv'
-patent_numbers = ['US6025334', 'US8767010', 'US7558853']
+OUTPUT_FILENAME = 'patent_output.csv'  ## set your name for the output csv file
+patent_numbers = ['US6025334', 'US8767010', 'US7558853'] ## put the patent number of interests
 
 # ====================================================================================== #
 
